@@ -1,6 +1,6 @@
 # Optimization-of-delivery-route-using-genetic-algorithm
 System znajdowania najbardziej optymalnej ścieżki pomiędzy dziesięcioma miastami przy użyciu algorytmu genetycznego.
-<p align="left">
+<p align="center">
    <img src="https://img.shields.io/badge/Engine-VS%20Code-2B7FB8" alt="Engine">
   <img src="https://img.shields.io/badge/Version-1.86-39A8F2" alt="Version Engine">
 </p>
