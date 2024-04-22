@@ -12,7 +12,7 @@ Projekt rozwiązuje problem optymalizacji trasy dla podróżującego sprzedawcy 
 ## Documentation
 
 ### Libraries
-**-** **`pandas`**, **`random`**, **`geopy`**, **`folium`**
+**-** **`pandas`**, **`geopy`**, **`folium`**
 
 ### Definicja danych
 - Macierzy odległości pomiędzy miastami, kosztów paliwa i jego ilość.
